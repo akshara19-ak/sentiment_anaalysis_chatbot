@@ -17,5 +17,7 @@ This is a simple and interactive **chatbot built using Streamlit** that can unde
 - [NLTK (VADER)](https://www.nltk.org/)
 - [TextBlob](https://textblob.readthedocs.io/en/dev/)
 
+important step
+-after running the code in vs code ,we should run this line in the terminal"streamlit run sentiment_chatbot.py"
 
 
